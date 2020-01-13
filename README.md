@@ -1,1 +1,1 @@
-__dotfiles__
+__.dotfiles__
